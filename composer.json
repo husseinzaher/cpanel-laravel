@@ -1,0 +1,24 @@
+{
+  "name": "husseinzaher/laravel-cpanel",
+  "description": "Laravel Package of CPanel API 2.0",
+  "keywords": ["laravel", "cpanel", "cpanel api", "cpanel uapi"],
+  "homepage": "https://www.husseinzaher.com",
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Hussein Zaher",
+        "email": "husseinzaher@outlook.com"
+    }
+],
+"minimum-stability": "stable",
+  "require": {
+    "php": "^7.3|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "husseinzaher\\Cpanel\\": "/"
+    },
+    "files": [
+    ]
+  }
+}
