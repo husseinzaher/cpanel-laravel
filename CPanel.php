@@ -2,7 +2,7 @@
 /**
  * CPanel
  *
- * @author: Pradeep Kumar
+ * @author: Hussein zaher
  * This package uses cPanel API 2.0
  */
 
